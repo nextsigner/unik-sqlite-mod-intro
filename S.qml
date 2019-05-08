@@ -23,7 +23,7 @@ Item {
         anchors.centerIn: r
         spacing: app.fs*0.5
         Text{
-            text: '<b>Unik QdmSqlite</b>'
+            text: '<b>Unik Sqlite</b>'
             font.pixelSize: app.fs*3
             color: app.c2
             anchors.horizontalCenter: parent.horizontalCenter
